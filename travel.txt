@@ -9,3 +9,5 @@ Packing List
 Picnick
 -------------------
 -Butter
+- Bread
+- Cola
