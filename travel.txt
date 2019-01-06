@@ -8,6 +8,7 @@ Packing List
 - Camera
 Picnick
 -------------------
--Butter
+- Butter
 - Bread
 - Cola
+- Sandwiches
